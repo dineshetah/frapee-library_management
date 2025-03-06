@@ -1,6 +1,6 @@
 app_name = "library_management"
 app_title = "Library Management"
-app_publisher = "DCcode"
+app_publisher = "DCCODE"
 app_description = "Library Management System"
 app_email = "dinesh.etah457@gmail.com"
 app_license = "mit"
